@@ -1,0 +1,26 @@
+name: GitHub Profile Summary Cards
+
+on:
+  # Run once a day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Profile Summary Cards
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: nathnaeltefera
+          UTC_OFFSET: 3
