@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Nathnael+Teshome+Tefera;Full-Stack+%26+AI+Engineer+from+Addis+Ababa+%F0%9F%87%AA%F0%9F%87%B9;Backend-heavy%2C+LLM-obsessed%2C+ship-it+mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Nathnael+Teshome+Tefera;Full-Stack+%26+AI+Engineer;Backend-heavy%2C+LLM-obsessed%2C+ship-it+mindset" alt="Typing SVG" />
 </h1>
 
 ---
@@ -8,7 +8,7 @@
 
 I'm a backend-heavy full-stack engineer with growing expertise in **AI agent systems** and **LLM orchestration**. I make websites that go brrr, ship APIs that don't fall over at 3 a.m., and care a lot about clean architecture, SOLID principles, and tests that actually run.
 
-- 🌍 Based in **Addis Ababa, Ethiopia**, working remotely with teams in the US, Europe, and across Africa
+- 🤖 Currently building **AI agents** and **production APIs**
 - 🎓 Double major in **Software Engineering & Mechanical Engineering**, Addis Ababa University
 - ☁️ **AWS Certified Cloud Practitioner** (2025–2028)
 - 📚 When I'm not coding, I'm reading non-fiction, exploring new tech, and spending time with family
@@ -64,8 +64,8 @@ I'm a backend-heavy full-stack engineer with growing expertise in **AI agent sys
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathnaeltefera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=14400" alt="Nathnael's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathnaeltefera&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=14400" alt="Top languages" />
+  <img height="180em" src="https://raw.githubusercontent.com/nathnaeltefera/nathnaeltefera/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Nathnael's GitHub stats" />
+  <img height="180em" src="https://raw.githubusercontent.com/nathnaeltefera/nathnaeltefera/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" />
 </p>
 
 <p align="center">
