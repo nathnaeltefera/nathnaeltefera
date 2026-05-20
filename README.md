@@ -1,21 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/nathnaeltefera">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Nathnael+Teshome+Tefera;Full-Stack+%26+AI+Engineer+from+Addis+Ababa+%F0%9F%87%AA%F0%9F%87%B9;Top+Rated+on+Upwork+%E2%9C%A8;Backend-heavy%2C+LLM-obsessed%2C+ship-it+mindset" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Nathnael+Teshome+Tefera;Full-Stack+%26+AI+Engineer+from+Addis+Ababa+%F0%9F%87%AA%F0%9F%87%B9;Backend-heavy%2C+LLM-obsessed%2C+ship-it+mindset" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nathnaeltefera&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/nathnael-tefera-5b297824b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/nath_locked">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:nathnaelteshome10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ---
 
@@ -23,12 +8,9 @@
 
 I'm a backend-heavy full-stack engineer with growing expertise in **AI agent systems** and **LLM orchestration**. I make websites that go brrr, ship APIs that don't fall over at 3 a.m., and care a lot about clean architecture, SOLID principles, and tests that actually run.
 
-- 🔭 Currently freelancing on **Upwork (Top Rated)**, building full-stack and AI products for global clients
 - 🌍 Based in **Addis Ababa, Ethiopia**, working remotely with teams in the US, Europe, and across Africa
 - 🎓 Double major in **Software Engineering & Mechanical Engineering**, Addis Ababa University
 - ☁️ **AWS Certified Cloud Practitioner** (2025–2028)
-- 🏆 Best BSc Thesis Competition Winner, AAiT 2023
-- 🚀 Past stops: **Agents4Hire.ai** (LLM agent orchestration), **A2SV** (2 years, full-stack + AI), **ESSS**, **Ethiopian Airlines**
 - 📚 When I'm not coding, I'm reading non-fiction, exploring new tech, and spending time with family
 
 ---
@@ -82,8 +64,8 @@ I'm a backend-heavy full-stack engineer with growing expertise in **AI agent sys
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathnaeltefera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Nathnael's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathnaeltefera&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathnaeltefera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=14400" alt="Nathnael's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathnaeltefera&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=14400" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -92,21 +74,6 @@ I'm a backend-heavy full-stack engineer with growing expertise in **AI agent sys
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nathnaeltefera&theme=tokyonight&no-frame=true&margin-w=10&column=7" alt="Trophies" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-Open to **full-time roles** in full-stack engineering, backend, and AI/LLM products. If you're hiring and my profile fits, reach out anytime.
-
-<p align="center">
-  <a href="mailto:nathnaelteshome10@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/nathnael-tefera-5b297824b/">
-    <img src="https://img.shields.io/badge/Message_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
 
 <p align="center"><i>Thanks for stopping by 🚀</i></p>
